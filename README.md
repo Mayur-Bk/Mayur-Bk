@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MAYUR B K</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
